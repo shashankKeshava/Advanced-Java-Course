@@ -1,4 +1,4 @@
-package Day01.main.com.Lab01.reflection;
+package Day01.com.Lab01.reflection;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;

@@ -1,4 +1,4 @@
-package Day01.main.com.Lab01;
+package Day01.com.Lab01;
 
 public class main {
 

@@ -1,4 +1,4 @@
-package Day01.main.com.Lab01.reflection;
+package Day01.com.Lab01.reflection;
 
 public class Person {
 
